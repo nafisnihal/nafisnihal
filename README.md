@@ -1,4 +1,4 @@
-### Hi, I'm Nafis Nihal
+### Hi, I'm **Nafis Nihal**
 ##### A newbie Frontend Developer 
 ##
 
