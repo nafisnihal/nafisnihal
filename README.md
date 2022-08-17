@@ -1,6 +1,18 @@
 ### Hi there, I'm Nafis Nihal 👋
 ##### A newbie Frontend Developer :rocket:
-###### Let's get connected: ![https://www.linkedin.com/in/nafisnihal/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+
+
+###### Let's get connected:
+<p align="left">
+<a href="https://linkedin.com/in/nafisnihal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nafisnihal" height="20" width="30" /></a>
+<a href="https://twitter.com/nafis_nihal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nafis_nihal" height="20" width="30" /></a>
+<a href="https://www.hackerrank.com/nafisnihal12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nafisnihal12" height="20" width="30" /></a>
+</p>
+
+##### email: **nafisnihal12@gmail.com**
+
+
 
 
 #### :octocat: **Languages and Tools I use:**
