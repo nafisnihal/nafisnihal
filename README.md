@@ -1,8 +1,8 @@
-### Hi there, I'm Nafis Nihal 👋
-##### A newbie Frontend Developer :rocket:
+### Hi, I'm Nafis Nihal
+##### A newbie Frontend Developer 
 ##
 
-###### Let's get connected:
+###### :rocket: Let's get connected:
 <p align="left">
 <a href="https://linkedin.com/in/nafisnihal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nafisnihal" height="20" width="30" /></a>
 <a href="https://twitter.com/nafis_nihal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nafis_nihal" height="20" width="30" /></a>
@@ -17,7 +17,7 @@
 #### :octocat: **Languages and Tools I use:**
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
