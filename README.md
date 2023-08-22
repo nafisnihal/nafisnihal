@@ -14,15 +14,15 @@
 
 #### :octocat: **Languages and Tools I use:**
 
-![React](https://img.shields.io/badge/react.js-ffffff.svg?style=for-the-badge&logo=react&logoColor=09D9FE)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 <!-- ![HTML5](https://img.shields.io/badge/html5-E44D26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-264DE4.svg?style=for-the-badge&logo=css3&logoColor=white) -->
-![MUI](https://img.shields.io/badge/MaterialUI-0A1929.svg?style=for-the-badge&logo=mui&logoColor=007FFF)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-0F172A.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-6F2CF2.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-A259FF.svg?style=for-the-badge&logo=figma&logoColor=white)
 
