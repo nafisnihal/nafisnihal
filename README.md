@@ -1,5 +1,5 @@
 ### Hi, I'm **Nafis Nihal**
-##### another Junior Frontend Developer 
+##### another Frontend Developer 
 ##
 
 ###### :rocket: Let's get connected:
@@ -14,9 +14,10 @@
 
 #### :octocat: **Languages and Tools I use:**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Typescript](https://img.shields.io/badge/TypeScript-2D79C7?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 <!-- ![HTML5](https://img.shields.io/badge/html5-E44D26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,10 +39,10 @@
 <table align="left">
   <row>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true&username=nafisnihal&hide=php,hack" height="200" alt="languages graph"  />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=440&langs_count=10&theme=github_dark&hide_border=true&username=nafisnihal&hide=php,hack" height="200" alt="languages graph"  />
     </td>
-    <td>
+<!--     <td>
      <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&username=nafisnihal&hide=issues,contribs&show=prs_merged_percentage&rank_icon=github" height="200" alt="stats graph"  />
-    </td>
+    </td> -->
   </row>
 </table>   
