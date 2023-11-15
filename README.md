@@ -1,4 +1,4 @@
-### Hi, I'm **Nafis Nihal**
+### Hi, I'm `Nafis Nihal`
 ##### another Frontend Developer 
 ##
 
