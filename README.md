@@ -2,7 +2,8 @@
 ##### another Frontend Developer 
 ##
 
-###### :rocket: Let's get connected:
+###### :rocket: **Let's get connected:**
+
 <p align="left">
 <a href="https://linkedin.com/in/nafisnihal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nafisnihal" height="20" width="30" /></a>
 <a href="https://twitter.com/nafis_nihal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nafis_nihal" height="20" width="30" /></a>
@@ -12,7 +13,7 @@
 
 
 
-#### :octocat: **Languages and Tools I use:**
+###### :octocat: **Languages and Tools I use:**
 
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
