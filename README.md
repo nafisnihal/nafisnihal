@@ -10,6 +10,7 @@
 <a href="https://twitter.com/nafis_nihal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nafis_nihal" height="20" width="30" /></a>
 
 ##### email: **nafisnihal12@gmail.com**
+![](https://komarev.com/ghpvc/?username=nafisnihal&style=flat-square&color=0D1117)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
