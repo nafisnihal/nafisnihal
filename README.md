@@ -1,6 +1,7 @@
 ### Hi, I'm `Nafis Nihal`
 ##### another Frontend Developer 
-##
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ###### :rocket: **Let's get connected:**
 
@@ -9,9 +10,8 @@
 <a href="https://twitter.com/nafis_nihal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nafis_nihal" height="20" width="30" /></a>
 
 ##### email: **nafisnihal12@gmail.com**
-##
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ###### :octocat: **Languages and Tools I use:**
 
@@ -34,8 +34,7 @@
 ![Python](https://img.shields.io/badge/python-336D9D?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-390090.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-
-##
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 <table align="left">
   <row>
@@ -44,6 +43,7 @@
     </td>
   </row>
 </table>  
+
 
 <table align="left">
   <row>
