@@ -12,7 +12,7 @@
 ##### email: **nafisnihal12@gmail.com**
 ![](https://komarev.com/ghpvc/?username=nafisnihal&style=flat-square&color=0D1117)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ###### :octocat: **Languages and Tools I use:**
 
@@ -35,7 +35,7 @@
 ![Python](https://img.shields.io/badge/python-336D9D?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-390090.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <table align="left">
   <row>
@@ -55,4 +55,7 @@
        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nafisnihal&theme=transparent" alt="stats card" />
     </td>
   </row>
-</table>   
+</table> 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
