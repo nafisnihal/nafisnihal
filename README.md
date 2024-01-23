@@ -40,7 +40,7 @@
 <table align="left">
   <row>
     <td>
-      <img src="https://github-readme-stats-nafisnihal.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&langs_count=10&theme=github_dark&hide_border=true&username=nafisnihal&hide=php,hack&card_width=530" alt="languages graph"  />
+      <img src="https://github-readme-stats-nafisnihal.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&langs_count=10&theme=github_dark&hide_border=true&username=nafisnihal&size_weight=0.5&count_weight=0.5&hide=php,hack&card_width=530" alt="languages graph"  />
     </td>
   </row>
 </table>  
