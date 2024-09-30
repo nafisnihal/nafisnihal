@@ -85,9 +85,11 @@
     <td>
        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nafisnihal&theme=transparent" alt="stats card" />
     </td>
+    <!--
     <td>
        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nafisnihal&theme=transparent" alt="stats card" />
     </td>
+    -->
   </row>
 </table> 
 
