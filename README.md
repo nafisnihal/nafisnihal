@@ -46,7 +46,7 @@
 ###### :octocat: **My Stack:**
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,materialui,tailwind,sass,bootstrap,figma,git,postman,ubuntu,py,cs)](https://nafisnihal.github.io/)
 -->
-
+<!--
 #### :octocat: **My Stack:**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
